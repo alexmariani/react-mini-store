@@ -1,0 +1,8 @@
+{
+    "name": "react-mini-store-workspace",
+    "private": true,
+    "workspaces": [
+        "packages/*",
+        "apps/*"
+    ]
+}
